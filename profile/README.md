@@ -1,6 +1,4 @@
-## Hi there 👋
-
-We build software that matters.
+### We build software that matters.
 
 - Read about us - https://jalantechnologies.com
 - Read how we operate as a company - https://github.com/jalantechnologies/handbook
